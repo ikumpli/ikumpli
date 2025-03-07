@@ -4,7 +4,7 @@ I have a background in data science and am deeply focused on machine learning an
  
 ## Updates ⚙️:    
        
-🔭 I am currently working as a trainee at **[BMW Group](https://www.bmwgroup.com/en.html)** in the department of Technologie-Cluster Digital in München (Germany)    
+🔭 I am currently working as a trainee at **[Fraunhofer Gesellschaft](https://www.iis.fraunhofer.de/en.html)** in the NLP-Department.    
 👯 I’m looking to collaborate on **Data Science, Machine Learning and Deep Learning**     
 
 ## Connect with me 🤝:     
