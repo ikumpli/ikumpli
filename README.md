@@ -1,10 +1,12 @@
 # Hi👋, I'm Iker Cumplido!  
 
-I have a background in data science and am deeply focused on machine learning and deep learning techniques. I like both the scientific and the business side, so my projects are always oriented to problem solving or process optimisation. I am passionate about the world of data and therefore I train every day with courses and participate in interesting projects to keep up with the latest technologies. 
+I have a background in Data Science and am deeply focused on researching the latest Machine Learning and Deep Learning techniques. I like both the scientific and the business side, so my projects are always oriented to problem solving or process optimisation📈. I am passionate about the world of data and therefore I train every day with courses and participate in interesting projects to keep up with the latest technologies.
+
+I have previous working experience👨🏻‍💻 at BMW, Fraunhofer IIS and OroraTech. My current field of specialization is Computer Vision 📸.
  
 ## Updates ⚙️:    
        
-🔭 I am currently working as a Master's Thesis  at **[Ororatech](https://ororatech.com/)** researching on spatio-temporal Vision Transformers for Wildfire Detection.    
+🔭 I am currently working as a Master's Thesis  at **[Ororatech](https://ororatech.com/)** researching on spatio-temporal Vision Transformers for Wildfire Detection🔥.    
 👯 I’m looking to collaborate on **Data Science, Machine Learning and Deep Learning**     
 
 ## Connect with me 🤝:     
