@@ -6,7 +6,7 @@ I have previous working experience👨🏻‍💻 at BMW, Fraunhofer IIS and Oro
  
 ## Updates ⚙️:    
        
-🔭 I am currently working as a Master's Thesis  at **[Ororatech](https://ororatech.com/)** researching on spatio-temporal Vision Transformers for Wildfire Detection🔥.    
+🔭 I am currently working as a Master's Thesis  at **[OroraTech](https://ororatech.com/)** researching on spatio-temporal Vision Transformers for Wildfire Detection🔥.    
 👯 I’m looking to collaborate on **Data Science, Machine Learning and Deep Learning**     
 
 ## Connect with me 🤝:     
