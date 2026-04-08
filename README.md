@@ -4,16 +4,13 @@ I have a background in data science and am deeply focused on machine learning an
  
 ## Updates ⚙️:    
        
-🔭 I am currently working as a trainee at **[Fraunhofer Gesellschaft](https://www.iis.fraunhofer.de/en.html)** in the NLP-Department.    
+🔭 I am currently working as a Master's Thesis  at **[Ororatech](https://ororatech.com/)** researching on spatio-temporal Vision Transformers for Wildfire Detection.    
 👯 I’m looking to collaborate on **Data Science, Machine Learning and Deep Learning**     
 
 ## Connect with me 🤝:     
 
 <a href="https://www.linkedin.com/in/iker-cumplido-esteban/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="35" width="35">
-</a>
-<a href="https://twitter.com/ikumpli">
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" height="35" width="35">
 </a>
 <a href="https://www.kaggle.com/ikercumplidoesteban">
     <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="35" width="35">
